@@ -1,0 +1,5 @@
+setup.py
+pysaf.egg-info/PKG-INFO
+pysaf.egg-info/SOURCES.txt
+pysaf.egg-info/dependency_links.txt
+pysaf.egg-info/top_level.txt
